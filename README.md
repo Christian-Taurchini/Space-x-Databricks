@@ -106,7 +106,7 @@ Documentazione del progetto di Data Engineering per la raccolta, trasformazione 
 
 ---
 
-## 6️⃣ Diagramma Flusso Dati (ASCII Avanzato)
+## 6️⃣ Diagramma Flusso Dati
 
 ```
        +---------------------+
