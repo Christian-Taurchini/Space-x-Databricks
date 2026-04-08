@@ -155,4 +155,3 @@ Legenda:
 | Launchpad Analysis | basi più utilizzate, mappa geografica  | map visualization, bar chart |
 | Payload Analysis   | numero payload per orbita, massa media | bar chart, KPI cards         |
 
----
