@@ -102,7 +102,6 @@ Documentazione del progetto di Data Engineering per la raccolta, trasformazione 
 3. **Job 3 – Silver transformations:** PySpark notebook → salva Delta Silver.
 4. **Job 4 – Gold aggregations:** PySpark notebook → salva Delta Gold.
 5. **Scheduler:** Databricks Jobs → schedulabile giornalmente.
-6. **Monitoring:** log ingestion, conteggio record, alert su fallimenti.
 
 ---
 
