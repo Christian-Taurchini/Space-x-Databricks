@@ -25,3 +25,11 @@ CREATE TABLE IF NOT EXISTS esercizio_spacex.bronze.bronze_payloads (
     raw_payload STRING
 )
 USING DELTA;
+
+-- Bronze ingestion_logs
+CREATE OR REPLACE TABLE esercizio_spacex.bronze.bronze_ingestion_logs (
+    Data_Caricamento DATE,
+    File_Json INT,
+    Esito STRING
+)
+USING DELTA;
